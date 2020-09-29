@@ -22,7 +22,7 @@ def package_data(pkg, roots):
 
 setup(
     name='activetable-xblock',
-    version='0.1.0',
+    version='1.0.0',
     description='activetable XBlock',   # TODO: write a better description.
     packages=[
         'activetable',
